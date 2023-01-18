@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mobile-dev/1111/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_account.xml" value="0.2203125" />
+        <entry key="..\:/Mobile-dev/1111/final-project-and-presentation-furious-five/app/src/main/res/layout/fragment_people.xml" value="0.16485507246376813" />
+        <entry key="..\:/Mobile-dev/merge1/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_main.xml" value="0.32760416666666664" />
+        <entry key="..\:/Mobile-dev/merge1/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_main2.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/Hardik.Vagrecha/Desktop/MOBILE FINAL PROJECT/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Hardik.Vagrecha/Desktop/MOBILE FINAL PROJECT/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_main2.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Hardik.Vagrecha/Desktop/MOBILE FINAL PROJECT/final-project-and-presentation-furious-five/app/src/main/res/layout/fragment_people.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Hardik.Vagrecha/Desktop/MOBILE FINAL PROJECT/final-project-and-presentation-furious-five/app/src/main/res/layout/fragment_person.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/drawable-anydpi/ic_action_account.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/drawable-anydpi/ic_action_check.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/drawable/gradient_animation123.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/drawable/gradient_background1.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_detailed.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_fast_laughs.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_gesture.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_home_page.xml" value="0.11195542046605876" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_manage_profile.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_news_and_hot.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_notification.xml" value="0.1276595744680851" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_sign_up.xml" value="0.1276595744680851" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_splash_screen.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_video.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/fragment1.xml" value="0.1276595744680851" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/fragment2.xml" value="0.1276595744680851" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/fragment_people.xml" value="0.23020833333333332" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/genre.xml" value="0.2658514492753623" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/movie_item.xml" value="0.1276595744680851" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/people_item.xml" value="0.2613981762917933" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/slider.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/slider_item.xml" value="0.1276595744680851" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/top_movie_item.xml" value="0.11195542046605876" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/trending.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/singh/Documents/Ye_wala_final_netflix/final-project-and-presentation-furious-five/app/src/main/res/layout/trending_movie_item.xml" value="0.1" />
+        <entry key="..\:/Users/singh/Downloads/ajinkya/part/final-project-and-presentation-furious-five/app/src/main/res/layout/activity_main2.xml" value="0.2994791666666667" />
+        <entry key="..\:/Users/singh/Downloads/ajinkya/part/final-project-and-presentation-furious-five/app/src/main/res/layout/fragment_people.xml" value="0.2994791666666667" />
+        <entry key="app/src/main/res/layout/activity_account.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/activity_manage_profile.xml" value="0.35625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>

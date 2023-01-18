@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E50914</color>
+    <color name="colorPrimaryDark">#831010</color>
+    <color name="colorAccent">#564D4D</color>
+    <color name="NetflixRed">#E50914</color>
+    <color name="black">#141414</color>
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="button_background_color">#63ace5</color>
+    <color name="pale_black">#1D1D1D</color>
+    <color name="dark_grey">#2D2D2D</color>
+    <color name="white">#FFFFFF</color>
+    <color name="Aqua">	#00FFFF</color>
+    <color name="Green">#00FF00   </color>
+    <color name="Red">#FF0000</color>
+    <color name="Brown">#804000</color>
+
+    <color name="circular_image_border_color">#757575</color>
+    <color name="item_happy_place_description_text_color">#606060</color>
+
+    <color name="detail_screen_description_text_color">#757575</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Privacy">गोपनीयता</string>
+    <string name="Help">मदद</string>
+    <string name="idhint">ईमेल या फोन नंबर</string>
+    <string name="passwordhint">पासवर्ड</string>
+    <string name="logininbutton">साइन इन करें</string>
+    <string name="recover">पासवर्ड की वसूली</string>
+    <string name="newtonetflix">नेटफ्लिक्स के लिए नया? अभी साइनअप करें</string>
+    <string name="captch">यह सुनिश्चित करने के लिए कि आप बॉट नहीं हैं, साइन इन Google reCAPTCHA द्वारा सुरक्षित है। और अधिक जानें</string>
+
+</resources>

@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/name_title"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_person_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:inputType="textCapWords"
+            android:textColor="@color/primary_text_color"
+            android:textColorHint="@color/secondary_text_color"
+            android:textSize="20sp" />
+
+</com.google.android.material.textfield.TextInputLayout>
+
+
+<com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/age_title"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+        >
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_person_age"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="ID"
+            android:inputType="textCapWords"
+            android:visibility="gone"
+            android:textColor="@color/primary_text_color"
+            android:textColorHint="@color/secondary_text_color"
+            android:textSize="20sp" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/til_title"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_person_favorite_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Feedback"
+            android:inputType="textCapWords"
+            android:textColor="@color/primary_text_color"
+            android:textColorHint="@color/secondary_text_color"
+            android:textSize="20sp"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+<!--    <TableLayout-->
+<!--        android:layout_width="458dp"-->
+<!--        android:layout_height="wrap_content">-->
+
+<!--        <TableRow-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent">-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/person_name_label"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="person_name_label"-->
+<!--                android:textSize="20sp"-->
+<!--                tools:text="Name" />-->
+
+<!--            <EditText-->
+<!--                android:id="@+id/input_person_name"-->
+<!--                android:layout_width="272dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="80dp"-->
+<!--                android:ems="10"-->
+<!--                android:hint="Person's name"-->
+<!--                android:inputType="textPersonName"-->
+<!--                android:textSize="20sp" />-->
+<!--        </TableRow>-->
+
+<!--        <TableRow-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent">-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/person_age_label"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="person_age_label"-->
+<!--                android:textSize="20sp"-->
+<!--                tools:text="Age" />-->
+
+<!--            <EditText-->
+<!--                android:id="@+id/input_person_age"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="80dp"-->
+<!--                android:ems="10"-->
+<!--                android:hint="Person's age"-->
+<!--                android:inputType="textPersonName"-->
+<!--                android:textSize="20sp" />-->
+
+<!--        </TableRow>-->
+
+<!--        <TableRow-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent">-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/person_color_label"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="person_color_label"-->
+<!--                android:textSize="20sp"-->
+<!--                tools:text="Fav Color" />-->
+
+<!--            <EditText-->
+<!--                android:id="@+id/input_person_favorite_color"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="80dp"-->
+<!--                android:ems="10"-->
+<!--                android:hint="Person's favorite color"-->
+<!--                android:inputType="textPersonName"-->
+<!--                android:textSize="20sp" />-->
+
+<!--        </TableRow>-->
+
+<!--        <TableRow-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent" />-->
+
+<!--    </TableLayout>-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <Button
+            android:id="@+id/button_create_person"
+            android:layout_width="match_parent"
+            android:layout_margin="20dp"
+
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:padding="15dp"
+            android:drawableTop="@drawable/ic_baseline_create_24"
+            android:text="CREATE"
+            android:textSize="20sp" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <Button
+            android:id="@+id/button_update_person"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:padding="10dp"
+            android:drawableTop="@drawable/ic_baseline_update_24"
+            android:text="UPDATE"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button_delete_person"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="DELETE"
+            android:drawableTop="@drawable/ic_baseline_delete_24"
+            android:layout_margin="20dp"
+            android:padding="10dp"
+            android:textSize="20sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/button_prev_person"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:padding="10dp"
+            android:text="PREV"
+            android:drawableLeft="@drawable/ic_baseline_navigate_before_24"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/button_next_person"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_margin="20dp"
+            android:padding="10dp"
+            android:text="NEXT"
+            android:drawableEnd="@drawable/ic_baseline_navigate_next_24"
+            android:textSize="20sp" />
+    </LinearLayout>
+    </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</LinearLayout>

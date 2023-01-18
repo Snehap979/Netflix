@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name" translatable="false">Netflix</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="signinMainActivity" translatable="false">SIGN IN</string>
+    <string name="quote1" translatable="false">Watch on any device</string>
+    <string name="quote2" translatable="false">Download and go</string>
+    <string name="quote3" translatable="false">No pesky contracts</string>
+    <string name="quote4" translatable="false">How do I watch?</string>
+    <string name="quote11" translatable="false">Stream on your phone, tablet , laptop and TV without paying more</string>
+    <string name="quote12" translatable="false">Save your data, watch offline on a phone , train , or submarine...</string>
+    <string name="quote13" translatable="false">"Join today, cancel anytime"</string>
+    <string name="quote14" translatable="false">Members that subscribe to Netflix can watch here in the app</string>
+    <string name="Privacy">Privacy</string>
+    <string name="Help">Help</string>
+    <string name="idhint">Email or phone number</string>
+    <string name="passwordhint">Password</string>
+    <string name="logininbutton">Sign In</string>
+    <string name="recover">Recover Password</string>
+    <string name="newtonetflix">New to Netflix? Sign up now</string>
+    <string name="captch">Sign in is protected by Gogle reCAPTCHA to ensure you\'re not a bot. Learn More</string>
+
+
+</resources>

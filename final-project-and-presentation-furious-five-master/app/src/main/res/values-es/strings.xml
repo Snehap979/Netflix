@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Privacy">privacidad</string>
+    <string name="Help">Ayuda</string>
+    <string name="idhint">Correo electrónico o número de teléfono</string>
+    <string name="passwordhint">Clave</string>
+    <string name="logininbutton">Registrarse</string>
+    <string name="recover">Recuperar contraseña</string>
+    <string name="newtonetflix">¿Nuevo en Netflix? Regístrate ahora</string>
+    <string name="captch">El inicio de sesión está protegido por Gogle reCAPTCHA para garantizar que no sea un bot. Aprende más</string>
+</resources>
